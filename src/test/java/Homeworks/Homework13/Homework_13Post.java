@@ -49,7 +49,7 @@ public class Homework_13Post {
 
 
         UserPojo expectedData = ObjectMapperUtils.convertJsonToJava
-                (strJson, UserPojo.class);//This readValue method works with two parameters. First one is String formatted Json, second one is the data type you want to convert the json to.
+                (strJson, UserPojo.class);
         System.out.println("expectedData = " + expectedData);
 
 
