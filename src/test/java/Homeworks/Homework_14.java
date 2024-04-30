@@ -34,7 +34,7 @@ public class Homework_14 {
 
        response
                .then()
-               .statusCode(200)  //Satus code is 200
+               .statusCode(200)  //Status code is 200
                .body("data.size()",equalTo(24), //There are 24 employees
                        "data.employee_name", hasItems("Tiger Nixon", "Garrett Winters"), //"Tiger Nixon" and "Garrett Winters" are among the employees
                        "data.max { it.employee_age }.employee_age", equalTo(66), //The greatest age is 66
