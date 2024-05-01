@@ -6,7 +6,7 @@
         <classes>
             <class name="Homeworks.Homework15.Homework_15Post"/>
             <class name="Homeworks.Homework15.Homework_15Git"/>
-            <class name="Homeworks.Homework15.Homework_15Put"/>
+            <class name="Homeworks.Homework15.Homework_15Patch"/>
             <class name="Homeworks.Homework15.Homework_15Delete"/>
 
         </classes>
