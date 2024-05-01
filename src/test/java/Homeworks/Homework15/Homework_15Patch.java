@@ -13,7 +13,7 @@ import static utilities.ObjectMapperUtils.convertJsonToJava;
 //    "email": "test2@fake.com",
 //    "password": "myNewPassword"
 //}
-public class Homework_15Put extends UserBase {
+public class Homework_15Patch extends UserBase {
 
 
 
